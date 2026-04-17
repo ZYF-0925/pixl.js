@@ -4,7 +4,6 @@
 #include "vfs.h"
 #include "vfs_meta.h"
 
-#include "tag_helper.h"
 #include "ble_amiibolink.h"
 
 #define SETTINGS_FILE_NAME "/settings.bin"
