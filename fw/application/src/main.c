@@ -92,7 +92,6 @@
 #include "hal_spi_bus.h"
 #include "hal_spi_flash.h"
 
-#include "tag_helper.h"
 
 #include "cache.h"
 #include "i18n/language.h"
